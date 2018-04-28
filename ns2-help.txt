@@ -1,0 +1,6 @@
+gedit filename.tcl
+ns filename.tcl
+
+Agar direct nam window kholna hai toh
+1.Terminal mai nam type karo
+2. File->new file

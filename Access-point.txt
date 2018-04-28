@@ -1,0 +1,23 @@
+Steps
+
+1. Click on the rest button
+
+2. Then connect the access point with pc using cable to ensure that router is rest, a yellow light will stop blinking.
+
+3. open edit connection in iPv4 do
+IP = 192.168.1.11
+Netmask = 255.255.255.0
+Gateway = 0.0.0.0
+DNS Server - Blank
+Save the following settings
+
+4. Open browser and enter 192.168.1.245 in search bar, it will open settings page.
+
+Username = 
+Password = admin
+
+5. Change IP to 192.168.3.51
+
+6. Save the settings and then restart.
+
+7. Connect the access point to IO Port Ethernet Socket.
